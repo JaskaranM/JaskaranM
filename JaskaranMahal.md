@@ -5,7 +5,7 @@
 I am a computer science student, studying at Aston University with a profound interest in technology and a fixation on finding solutions for complex problems.
 
 ## Objective
-My journey in computer science from a young age has led to my profound interest in the variety of sectors. As I ventured down this path further, I found my passion for cybersecurity and have taken great interest in this ever-changing digital environment that is the backbone of society. My objective and goal is to enter the cybersecurity field into roles such as cybersecurity engineer, cybersecurity analyst or penetration tester.
+My journey in computer science from a young age has led to my profound interest in the variety of sectors. As I ventured down this path further, I found my passion for cybersecurity and have taken great interest in this ever-changing digital environment that is the backbone of society. My objective and goal is to enter the cybersecurity field into roles such as cybersecurity engineer, analyst or penetration tester.
 
 ## Skills
 
