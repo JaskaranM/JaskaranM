@@ -3,7 +3,7 @@
 
 Problem solving and multidisciplinary talent is at the forefront of my adaptive problem solving skills that I hone and sharpen on a daily basis whilst studying computer science at Aston University.
 ## Objective
-My journey in computer science from a young age has led to my profound interest in the variety of sectors. As I ventured down this path further, I found my passion for cybersecurity and have taken great interest in this ever-changing digital environment that is the backbone of society. My objective and goal is to enter the cybersecurity field into roles such as cybersecurity engineer, analyst or penetration tester.
+My journey in computer science from a young age has led to my profound interest in a variety of sectors. As I ventured down this path further, I found my passion for cybersecurity and have taken great interest in this ever-changing digital environment that is the backbone of society. My objective and goal is to enter the cybersecurity field into roles such as cybersecurity engineer, analyst or penetration tester.
 
 ## Skills
 
@@ -20,6 +20,6 @@ My journey in computer science from a young age has led to my profound interest 
 
 <div>
 
-Completing this Google Cloud Cybersecurity course via Coursera armed me with great knowledge about key cybersecurity principles and hands on experience with Google's Security Command Center
+Completing this Google Cloud Cybersecurity course via Coursera armed me with great knowledge about key cybersecurity principles and hands on experience with Google's Security Command Center. My certificates can be viewed by clicking on the button below.
 
 <a href="https://coursera.org/share/aa8aef2095134697b36b605496560ec3"><img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=coursera&logoColor=white" />
