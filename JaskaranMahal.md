@@ -3,7 +3,7 @@
 
 Problem solving and multidisciplinary talent is at the forefront of my adaptive problem solving skills that I hone and sharpen on a daily basis whilst studying computer science at Aston University.
 ## Objective
-My journey in computer science from a young age has led to my profound interest in a variety of sectors. As I ventured down this path further, I found my passion for cybersecurity and have taken great interest in this ever-changing digital environment that is the backbone of society. My objective and goal is to enter the cybersecurity field into roles such as cybersecurity engineer, analyst or penetration tester.
+My journey in computer science from a young age has led to my profound interest in a variety of sectors. As I ventured down this path further, I found my passion for cybersecurity and have taken great interest in this ever-changing digital environment that is the backbone of society. My objective and goal is to enter the cybersecurity field into roles such as cybersecurity engineer, analyst or penetration tester. In order to gain hands on experience, I use learning tools such as Cybrary and HackTheBox.
 
 ## Skills
 
