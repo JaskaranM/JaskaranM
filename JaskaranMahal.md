@@ -13,8 +13,10 @@ My journey in computer science from a young age has led to my profound interest 
 |          Well Versed in Python and OOP        | <a href="https://github.com/JaskaranM/MQTT-Project">MQTT Group Project - Coventry University </a>|
 |   Experience in SQL and normalising databases | <a href="https://drive.google.com/drive/folders/1N_GahSj657V9RrtMIJcsgMyVmRIBonZj?usp=sharing">Working With Data Individual Coursework - Coventry University</a>|
 |     RSA Cryptography Encryption/Decryption    | <a href="https://github.com/JaskaranM/RSA-Cryptography-">RSA Cryptography Mini Project - Solo</a>|
-|  Vitality E-commerce Website Group Project    | <a href="https://github.com/GroupTwentySix/Backend"> Group Project </a>|
-|   MSF-Splunk-and-Reverse-TCP-Demonstration    | <a href= https://github.com/JaskaranM/MSF-Splunk-and-Reverse-TCP-Demonstration> MSF Splunk and Reverse TCP Demonstration </a>|
+|           Java Socket Programming             | <a href= "https://github.com/JaskaranM/Multi-User-Chat-Service-Project"> Java Socket Programming with TLS Encryption - Group Project </a>|
+|      E-commerce Website Group Project         | <a href="https://github.com/GroupTwentySix/Backend"> Vitality E-commerce Website Group Project  </a>|
+|   MSF-Splunk-and-Reverse-TCP-Demonstration    | <a href= "https://github.com/JaskaranM/MSF-Splunk-and-Reverse-TCP-Demonstration"> MSF Splunk and Reverse TCP Demonstration </a>|
+|        SOC Automation with SOAR Project       | <a href= "https://github.com/JaskaranM/Jaskaran-Porfolio/blob/main/2%20-%20SOC-Automation/SOC%20Automation.md"> SOC Project </a>|
 
 ## Certificates / Courses
 
